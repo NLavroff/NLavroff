@@ -21,8 +21,6 @@
 ### :woman_technologist: About Me :
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
-- :telescope: I’m learning Full Stack Web Development @DonkeySchool and I am looking for an internship as a Front-End Web Developer.
-
 - :mag: I am a problem solver.
 
 - :bulb: I like to learn new things.
